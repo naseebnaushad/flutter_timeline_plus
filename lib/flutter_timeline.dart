@@ -1,4 +1,4 @@
-library flutter_timeline;
+library flutter_timeline_plus;
 
 export 'timeline.dart';
 export 'defaults.dart';

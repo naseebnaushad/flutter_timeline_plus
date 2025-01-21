@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_timeline/event_item.dart';
-import 'package:flutter_timeline/timeline_theme.dart';
-import 'package:flutter_timeline/timeline_theme_data.dart';
+import 'package:flutter_timeline_plus/event_item.dart';
+import 'package:flutter_timeline_plus/timeline_theme.dart';
+import 'package:flutter_timeline_plus/timeline_theme_data.dart';
 
 import 'indicator_position.dart';
 

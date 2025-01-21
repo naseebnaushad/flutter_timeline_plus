@@ -25,7 +25,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  flutter_timeline:
+  flutter_timeline_plus:
     path: "../"
 
   expandable: ^5.0.1

@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_timeline/indicator_position.dart';
+import 'package:flutter_timeline_plus/indicator_position.dart';
 
 /// [TimelineThemeData] is passed through [TimelineTheme], works like general flutter theme object.
 class TimelineThemeData with Diagnosticable {

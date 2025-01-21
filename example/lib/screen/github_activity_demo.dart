@@ -1,6 +1,6 @@
 import 'package:example/themes/github_theme.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_timeline/flutter_timeline.dart';
+import 'package:flutter_timeline_plus/flutter_timeline.dart';
 
 class GithubActivityDemo extends StatefulWidget {
   static const routeName = "/demo/github-activity";

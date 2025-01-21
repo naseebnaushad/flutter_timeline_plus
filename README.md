@@ -8,9 +8,9 @@ title: flutter timeline
   <meta name="description" content="a fully customizable, ready to use flutter timeline widget">
   <meta name="title" content="flutter timeline widget">
 
-# flutter_timeline [![](https://img.shields.io/badge/pub-latest-brightgreen)](https://pub.dev/packages/flutter_timeline)
+# flutter_timeline_plus [![](https://img.shields.io/badge/pub-latest-brightgreen)](https://pub.dev/packages/flutter_timeline_plus)
 
-![logo](docs/images/logo.png)
+![logo](doc/images/logo.png)
 
 > a fully customizable & general timeline widget, based on real-world application references
 
@@ -29,7 +29,7 @@ title: flutter timeline
 
 ```yaml
 dependencies:
-  flutter_timeline: latest
+  flutter_timeline_plus: latest
 ```
 
 ## usage
@@ -93,13 +93,13 @@ _using anchor & offset_
 
 ## complex example
 
-<img src="docs/images/desk-ss-01.png" width="300"/>
+<img src="doc/images/desk-ss-01.png" width="300"/>
 
 ## simple example [(run it now!)](https://softmarshmallow.github.io/flutter-timeline/)
 
-<img src="docs/images/mac-ss.png" width="500"/>
-<img src="docs/images/mac-ss-2.png" width="500"/>
-<img src="docs/images/mac-ss-3.png" width="500"/>
+<img src="doc/images/mac-ss.png" width="500"/>
+<img src="doc/images/mac-ss-2.png" width="500"/>
+<img src="doc/images/mac-ss-3.png" width="500"/>
 
 more documentation available at [github](https://github.com/softmarshmallow/flutter-timeline)
 

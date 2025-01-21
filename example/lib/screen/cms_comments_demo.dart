@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_timeline/flutter_timeline.dart';
+import 'package:flutter_timeline_plus/flutter_timeline.dart';
 
 class DeskTimelineDemoScreen extends StatefulWidget {
   static const routeName = "/demo/cms-comments";
