@@ -21,3 +21,5 @@ Timeline(
 ## [0.1.1+13] - supports `reverse:true`
 
 ## [0.3.0] - Add null safety support
+
+## [1.0.0] - Changed to flutter_timeline_plus (updated code)
