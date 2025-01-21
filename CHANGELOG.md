@@ -25,3 +25,5 @@ Timeline(
 ## [1.0.0] - Changed to flutter_timeline_plus (updated code)
 
 ## [1.0.1] - Formatted files and added repository to Pubspec.yaml
+
+## [1.0.2] - Version update, and example updated
