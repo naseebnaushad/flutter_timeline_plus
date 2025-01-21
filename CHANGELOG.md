@@ -23,3 +23,5 @@ Timeline(
 ## [0.3.0] - Add null safety support
 
 ## [1.0.0] - Changed to flutter_timeline_plus (updated code)
+
+## [1.0.1] - Formatted files and added repository to Pubspec.yaml
