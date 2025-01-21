@@ -23,7 +23,6 @@ title: flutter timeline
 - ✅ anchor support
 - ✅ global offset support
 - ✅ item offset support
-- ✅ supported & used by [enterprise](https://github.com/genoplan), constantly updated, used on production application.
 
 ## Installation
 
@@ -101,17 +100,6 @@ _using anchor & offset_
 <img src="doc/images/mac-ss-2.png" width="500"/>
 <img src="doc/images/mac-ss-3.png" width="500"/>
 
-more documentation available at [github](https://github.com/softmarshmallow/flutter-timeline)
-
-## Sponsors
-
-
-[![sponsored-by-grida](https://s3.us-west-1.amazonaws.com/brand.grida.co/badges-for-github/sponsored-by-grida-oss-program.png)](https://grida.co)
-
-
-## Also check out...
-
-[flutter_layouts](https://github.com/softmarshmallow/flutter-layouts)
 
 ## references
 
