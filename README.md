@@ -94,7 +94,6 @@ _using anchor & offset_
 
 <img src="doc/images/desk-ss-01.png" width="300"/>
 
-## simple example [(run it now!)](https://softmarshmallow.github.io/flutter-timeline/)
 
 <img src="doc/images/mac-ss.png" width="500"/>
 <img src="doc/images/mac-ss-2.png" width="500"/>
